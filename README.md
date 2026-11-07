@@ -12,6 +12,12 @@
 
 SVG files are the editable sources. Keep the icon's record-and-track-list silhouette intact at small sizes, and use the wordmark or banner when there is room for the name and tagline. The banner is designed for a dark background; do not stretch assets out of proportion.
 
+## AI-generated content notice
+
+The icon, wordmark, and banner artwork in this repository were AI-generated
+and then adapted for the RiffRelay project. They are unofficial project assets,
+not artwork or marks provided by ListenBrainz, MusicBrainz, or another service.
+
 ## Palette
 
 | Color | Hex | Use |
