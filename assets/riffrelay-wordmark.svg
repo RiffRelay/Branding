@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title">
+  <title id="title">RiffRelay — Your listening history, in sync.</title>
+  <rect width="1120" height="280" rx="28" fill="#211F2B"/>
+  <g transform="translate(26 26) scale(.4453125)">
+    <rect width="512" height="512" rx="112" fill="#211F2B"/>
+    <circle cx="337" cy="257" r="151" fill="#E7B85B"/>
+    <circle cx="337" cy="257" r="124" fill="none" stroke="#D3A54D" stroke-width="3"/>
+    <circle cx="337" cy="257" r="105" fill="none" stroke="#D3A54D" stroke-width="3"/>
+    <circle cx="337" cy="257" r="86" fill="none" stroke="#D3A54D" stroke-width="3"/>
+    <circle cx="337" cy="257" r="36" fill="#EC7259"/>
+    <circle cx="337" cy="257" r="8" fill="#211F2B"/>
+    <rect x="57" y="126" width="237" height="260" rx="24" fill="#F7F0E3"/>
+    <circle cx="91" cy="164" r="9" fill="#EC7259"/>
+    <rect x="112" y="157" width="126" height="14" rx="7" fill="#211F2B"/>
+    <rect x="82" y="193" width="187" height="2" rx="1" fill="#D9D0C2"/>
+    <circle cx="94" cy="232" r="7" fill="#E7B85B"/>
+    <rect x="114" y="226" width="123" height="12" rx="6" fill="#5A5661"/>
+    <circle cx="94" cy="282" r="7" fill="#EC7259"/>
+    <rect x="114" y="276" width="103" height="12" rx="6" fill="#5A5661"/>
+    <circle cx="94" cy="332" r="7" fill="#E7B85B"/>
+    <rect x="114" y="326" width="134" height="12" rx="6" fill="#5A5661"/>
+  </g>
+  <text x="284" y="129" fill="#F7F0E3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">RiffRelay</text>
+  <text x="290" y="183" fill="#B8B0C7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27">Your listening history, in sync.</text>
+</svg>
