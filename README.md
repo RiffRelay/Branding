@@ -1,37 +1,71 @@
-# RiffRelay brand kit
+# RiffRelay visual identity
 
-**RiffRelay** is a provisional working name for an independent music-listening-history bot.
-
-**Tagline:** Your listening history, in sync.
+RiffRelay is an independent Discord bot for exploring ListenBrainz listening
+history. The identity takes cues from dark Discord bot interfaces: deep
+charcoal surfaces, crisp light type, and violet command accents. It should feel
+like a capable bot, not a record label or streaming-service clone.
 
 ## Assets
 
-- `assets/riffrelay-icon.svg` / `.png` — app icon and Discord avatar (PNG: 512 × 512).
-- `assets/riffrelay-wordmark.svg` / `.png` — horizontal logo for docs and profiles (PNG: 1120 × 280).
-- `assets/riffrelay-banner.svg` / `.png` — repository and social banner (PNG: 1600 × 500).
+| Asset | Size | Use |
+|---|---:|---|
+| `assets/riffrelay-icon.svg` / `.png` | 512 × 512 | App icon and Discord avatar |
+| `assets/riffrelay-wordmark.svg` / `.png` | 1120 × 280 | Docs, profiles, and narrow headers |
+| `assets/riffrelay-banner.svg` / `.png` | 1600 × 500 | Repository and wide social banner |
+| `assets/riffrelay-social-card.svg` / `.png` | 1200 × 630 | Open Graph and social previews |
 
-SVG files are the editable sources. Keep the icon's record-and-track-list silhouette intact at small sizes, and use the wordmark or banner when there is room for the name and tagline. The banner is designed for a dark background; do not stretch assets out of proportion.
+SVG is the editable source of truth. PNGs are raster exports at the sizes shown.
+Keep each asset at its native aspect ratio. The R ends cleanly, with no trailing
+mark or status indicator. Do not add the old orange tail, green dots, glows,
+gradients, or decorative player mockups. Use slash-command and embed-like cues
+sparingly. Do not use Discord's logo or copy its full interface.
 
-## AI-generated content notice
+The artwork is composed from editable vector paths and typeset text, rather
+than image-generation-model output or stock imagery. Typeface names are
+specified as system stacks so no font files need to be redistributed.
 
-The icon, wordmark, and banner artwork in this repository were AI-generated
-and then adapted for the RiffRelay project. They are unofficial project assets,
-not artwork or marks provided by ListenBrainz, MusicBrainz, or another service.
+## Earlier references
+
+These were reviewed during the earlier editorial exploration. The current
+direction shifts to dark bot-interface cues; none of these logos, layouts, or
+artwork are copied:
+
+- [Soho Radio rebrand](https://www.itsnicethat.com/articles/wonderhood-design-soho-radio-graphic-design-project-201025):
+  a consistent identity can frame varied listening histories.
+- [Dublab identity proposal](https://zeke.studio/work/dublab/):
+  sound can be expressed through a considered system across print and digital.
+- [NTS About](https://www.nts.live/about):
+  an archive can feel cultural and editorial rather than like a stats dashboard.
+
+## Art direction
+
+- **Surface:** near-black canvas and raised charcoal panels, with clean spacing
+  and clear message hierarchy.
+- **Voice:** helpful and relaxed, like a well-made bot response; never a fake
+  Discord screenshot or streaming-service interface.
+- **Signal:** violet marks the RiffRelay identity and command emphasis. Avoid
+  presence dots, online labels, and other status indicators.
+- **Mark:** a bright custom `R` with a clean terminal. Keep the letter readable
+  at avatar size; no orange route, record, equalizer, or music-note.
 
 ## Palette
 
 | Color | Hex | Use |
-| --- | --- | --- |
-| Cabinet | `#211F2B` | Primary dark background |
-| Paper | `#F7F0E3` | Light surfaces and primary text |
-| Sleeve coral | `#EC7259` | Record label and accents |
-| Vinyl gold | `#E7B85B` | Record and highlights |
-| Dusty lilac | `#B8B0C7` | Secondary text |
-
-The mark pairs a record with a filed track list to signal music and listening history—not a medical monitor or a service logo.
+|---|---|---|
+| Midnight | `#1E1F22` | Main background |
+| Panel | `#313338` | Embed and raised surface |
+| Divider | `#42444B` | Panel border and separators |
+| Primary text | `#F2F3F5` | Headings and key content |
+| Secondary text | `#B5BAC1` | Supporting copy |
+| Relay violet | `#5865F2` | Command emphasis |
 
 ## Name and affiliation
 
-The name is a working name, not a cleared brand. A GitHub repository-name search returned no exact `RiffRelay` matches when checked, but that is only a limited repository search—not a trademark, domain, or broader availability check. No legal clearance is implied; check relevant registries and seek qualified advice before commercial use.
+RiffRelay is a working name, not a cleared brand. A repository-name search is
+not trademark, domain, or broader availability clearance. Check relevant
+registries and seek qualified advice before commercial use.
 
-RiffRelay is independent and is not affiliated with, endorsed by, or sponsored by ListenBrainz, MusicBrainz, or any other music service. Do not use third-party names or marks in a way that suggests otherwise.
+RiffRelay is independent and is not affiliated with, endorsed by, or sponsored
+by ListenBrainz, MusicBrainz, or any other music service. Describe those
+services factually; do not use their names or marks in a way that suggests
+otherwise.
